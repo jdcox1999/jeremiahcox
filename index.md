@@ -5,7 +5,7 @@ I am a social science scholar interested in foresight.  Said more plainly, I am 
 Currently I am engaged in a project that explores the relationship between temporal focus (subjective time perspective) and organizational performance.  This project looks at traditional measures of strategic performance, as well as more abstract notions such as uniqueness.  Future work in this stream will explore the relationship between temporal focus and strategic alliance, mergers and acquisitions, and corporate entrepreneurship.
 
 [University of Utah](https://eccles.utah.edu/team/jeremy-cox/) <br>
-[Linkedin](https://www.linkedin.com/in/jeremy-cox-0486976/)
+[Linkedin](https://www.linkedin.com/in/jeremy-cox-0486976/) <br>
 ![Image](https://eccles.utah.edu/wp-content/uploads/2016/04/Jeremy-Cox_grey.jpg)
 
 
