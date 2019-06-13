@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Jeremiah Cox
 
-You can use the [editor on GitHub](https://github.com/jdcox1999/jeremiahcox/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a social science scholar interested in foresight.  Said more plainly, I am interested in how people make decisions that pertain to future actions.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently I am engaged in a project that explores the relationship between temporal focus (subjective time perspective) and organizational performance.  This project looks at traditional measures of strategic performance, as well as more abstract notions such as uniqueness.  Future work in this stream will explore the relationship between temporal focus and strategic alliance, mergers and acquisitions, and corporate entrepreneurship.
+
+[University of Utah](https://eccles.utah.edu/team/jeremy-cox/) <br>
+[Linkedin](https://www.linkedin.com/in/jeremy-cox-0486976/)
+![Image](https://eccles.utah.edu/wp-content/uploads/2016/04/Jeremy-Cox_grey.jpg)
+
 
 ### Markdown
 
