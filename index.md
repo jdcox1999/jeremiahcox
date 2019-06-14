@@ -1,4 +1,5 @@
 ## Jeremiah Cox
+<img src="https://eccles.utah.edu/wp-content/uploads/2016/04/Jeremy-Cox_grey.jpg" width="210" height="315" />
 
 I am a social science scholar interested in foresight.  Said more plainly, I am interested in how people make decisions that pertain to future actions.  
 
@@ -6,8 +7,6 @@ Currently I am engaged in a project that explores the relationship between tempo
 
 [University of Utah](https://eccles.utah.edu/team/jeremy-cox/) <br>
 [Linkedin](https://www.linkedin.com/in/jeremy-cox-0486976/) <br>
-<img src="https://eccles.utah.edu/wp-content/uploads/2016/04/Jeremy-Cox_grey.jpg" width="210" height="315" />
-
 
 
 ### Markdown
